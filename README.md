@@ -64,5 +64,5 @@ If you found this project helpful or cool:
 Pull requests are welcome! Whether it's adding animation, improving logic, or enhancing UI — contributions are appreciated.
 
 ## 💡 Author
-- Built with 💙 by Bishow to help everyone stay secure online with stylish, strong passwords.
+- Built with 💙 by [Bishow](https://github.com/BISHOW03)  to help everyone stay secure online with stylish, strong passwords.
 ## Feel free to check out more projects and follow for updates!
